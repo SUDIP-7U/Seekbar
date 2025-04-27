@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="default_slider_values">
+        <item>60</item> <!-- Start from 60 mins (1:00 PM) -->
+        <item>120</item> <!-- End at 120 mins (2:00 PM) -->
+    </array>
+</resources>

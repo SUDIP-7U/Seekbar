@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seekbar</string>
+    <string name="enable">Enable</string>
+    <string name="_02_00_pm">02:00 PM</string>
+    <string name="_1h_0m">🔇 1h 0m</string>
+    <string name="duhr">Duhr</string>
+    <string name="_01_00_pm">01:00 PM</string>
+    <string name="_12_07_pm_04_39_pm">12:07 PM → 04:39 PM</string>
+</resources>
